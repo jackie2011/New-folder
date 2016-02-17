@@ -1,0 +1,20 @@
+html, #most-visited-settings {
+background-attachment: fixed;
+background-color: rgba(255, 255, 255, 1);
+background-image: url(chrome://theme/IDR_THEME_NTP_BACKGROUND?);
+background-position: -64px;
+background-repeat: no-repeat;
+}
+html {
+font-family: segoe ui, arial, helvetica, sans-serif;
+font-size: 14px;
+height: 100%;
+overflow: hidden;
+}
+html[dir=ltr] {
+unicode-bidi: embed;
+direction: ltr;
+}
+user agent stylesheethtml {
+display: block;
+}
